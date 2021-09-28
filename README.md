@@ -7,4 +7,4 @@
 <br/>
 
 1. 분석 프로세스(예정)
-<img src="./images/readme/분석프로세스.png" width="500" /> 
+<img src="./images/분석프로세스.png" width="500" /> 
