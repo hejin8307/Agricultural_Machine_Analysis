@@ -1,5 +1,6 @@
 <div align=center><h1> Agricultural Machine Analysis </h1></div>
 <p align="center">
+  NIA 한국지능정보사회진흥원 <br/>
   공공빅데이터 청년인턴십 2021 프로젝트 <br/> 
   안동시 농기계 임대사업 이용률 분석과 지역별 사업 활성화 방안 제시
 </p>
@@ -7,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Openbigdata-2021-red" />
   <img src="https://img.shields.io/badge/python-3.7-blue" />
+  <img src="https://img.shields.io/badge/NIA-yellow" />
   <img src="https://img.shields.io/badge/DATAINTERN-purple" />
 
 <br/>
