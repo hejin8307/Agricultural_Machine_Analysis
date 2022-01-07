@@ -19,7 +19,7 @@
 <p> 임대 사업소별 임대 건수 대비 수량이 부족한 농기계를 파악하고 머신러닝 모델을 통한 수요를 예측하여 농기계 임대 사업 활성화 </p>
 <br/>
 
-<h2> Language & Editor 🔨 </h2>
+<h2> Language & Editor 🛠 </h2>
 <p>
   - Python : 3.7.6 </br>
   - Jupyter : 6.0.3
