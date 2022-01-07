@@ -4,6 +4,11 @@
   안동시 농기계 임대사업 이용률 분석과 지역별 사업 활성화 방안 제시
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Openbigdata-2021-red" />
+  <img src="https://img.shields.io/badge/python-3.7-blue" />
+  <img src="https://img.shields.io/badge/DATAINTERN-purple" />
+
 <br/>
 
 <h2> 프로젝트 기간 📆 </h2>
@@ -36,24 +41,24 @@
 
 ![image](https://user-images.githubusercontent.com/31836035/148500600-7b740b65-ab0b-4558-b9fb-af3755597117.png)
 
+* 임대 사업소별 농기계 종류 분류
+* 보유 개수 대비 임대 건수가 많은 농기계 추출
+* 농기계 임대 수요에 영향을 미치는 인자 도출
+* 수요 인자에 따른 수요 예측 모델 생성 및 검증
+<br/>
+
 <h2> 분석 결과 </h2>
 
 ###### ※ 일부 분석 결과만 첨부
 
-<p>
-  - 농업기술센터
-</p>
+* 농업기술센터
 
 ![image](https://user-images.githubusercontent.com/31836035/148501183-32185470-8bb4-4b61-a63a-6a53721d68a6.png)
 
-<p>
-  - 서부분소
-</p>
+* 서부분소
 
 ![image](https://user-images.githubusercontent.com/31836035/148501493-537db3dd-5424-44b3-8c71-4f4ebb2cf53a.png)
 
-<p>
-  - 북부분소
-</p>
+* 북부분소
 
 ![image](https://user-images.githubusercontent.com/31836035/148501523-b18c7b17-f397-429e-9238-e8c9435a76eb.png)
